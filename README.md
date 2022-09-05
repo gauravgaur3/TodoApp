@@ -11,3 +11,7 @@ You will be using React (Frontend Framework), Modern JavaScript , Create React A
 3. Add/Update Todo
 4. Login/Logout Page
 
+# Login Details
+
+Username : gaurav
+Password : dummy
